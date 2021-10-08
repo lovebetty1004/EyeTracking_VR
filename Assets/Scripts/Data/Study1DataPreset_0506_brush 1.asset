@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfbae7a10baf1d4baa8af16d2bd281b, type: 3}
+  m_Name: Study1DataPreset_0506_brush 1
+  m_EditorClassIdentifier: 
+  showContent: 1
+  totalObject: 100
+  layerDistance:
+  - 10
+  - 25
+  - 50
+  - 75
+  - 100
+  sizeRange:
+  - {x: 1, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: 1}
+  refObjects:
+  - {fileID: 3478483579380247559, guid: 28ff029ecad93f34e82feb1e27348f86, type: 3}
+  - {fileID: 4341380095259187965, guid: 860b04fa963360c4e92277db94399100, type: 3}
+  - {fileID: 2330797945343884370, guid: 2fbc257b9b9292444af689de2a77554d, type: 3}

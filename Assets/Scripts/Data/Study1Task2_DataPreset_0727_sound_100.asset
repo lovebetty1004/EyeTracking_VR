@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfbae7a10baf1d4baa8af16d2bd281b, type: 3}
+  m_Name: Study1Task2_DataPreset_0727_sound_100
+  m_EditorClassIdentifier: 
+  showContent: 0
+  objectPerLayer: 33
+  layerYshift:
+  - 0
+  - -10
+  - 10
+  layerDistance:
+  - 10
+  - 20
+  - 50
+  - 75
+  - 100
+  sizeRange:
+  - {x: 0.5, y: 2}
+  - {x: 1, y: 5}
+  - {x: 2, y: 10}
+  - {x: 5, y: 15}
+  - {x: 10, y: 30}
+  refObjects:
+  - {fileID: 3391401019557177926, guid: ef6d5615da854b6448f9ad5eaf5cb103, type: 3}
+  - {fileID: 356231847314167603, guid: 99f2f120b72a3f748948b5746db79ae8, type: 3}
+  - {fileID: 7025513191491954097, guid: 03d4957d70aaf6845b99cf85ab73a03a, type: 3}
+  - {fileID: 3391401019557177926, guid: ef6d5615da854b6448f9ad5eaf5cb103, type: 3}
+  - {fileID: 356231847314167603, guid: 99f2f120b72a3f748948b5746db79ae8, type: 3}
+  - {fileID: 7025513191491954097, guid: 03d4957d70aaf6845b99cf85ab73a03a, type: 3}
+  - {fileID: 3391401019557177926, guid: ef6d5615da854b6448f9ad5eaf5cb103, type: 3}
+  - {fileID: 356231847314167603, guid: 99f2f120b72a3f748948b5746db79ae8, type: 3}
+  - {fileID: 7025513191491954097, guid: 03d4957d70aaf6845b99cf85ab73a03a, type: 3}
+  - {fileID: 3391401019557177926, guid: ef6d5615da854b6448f9ad5eaf5cb103, type: 3}
+  - {fileID: 356231847314167603, guid: 99f2f120b72a3f748948b5746db79ae8, type: 3}
+  - {fileID: 7025513191491954097, guid: 03d4957d70aaf6845b99cf85ab73a03a, type: 3}
+  - {fileID: 3391401019557177926, guid: f2c658aa58be18543afb86a462000bb2, type: 3}
+  - {fileID: 356231847314167603, guid: 5ffa7a0db5f4c9247ba6edfc5880fa02, type: 3}
+  - {fileID: 7025513191491954097, guid: 8bb8a21ecd8783b45ac94138d74fa0f9, type: 3}

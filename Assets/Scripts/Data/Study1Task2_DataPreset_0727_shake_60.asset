@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfbae7a10baf1d4baa8af16d2bd281b, type: 3}
+  m_Name: Study1Task2_DataPreset_0727_shake_60
+  m_EditorClassIdentifier: 
+  showContent: 0
+  objectPerLayer: 20
+  layerYshift:
+  - 0
+  - -10
+  - 10
+  layerDistance:
+  - 10
+  - 20
+  - 50
+  - 75
+  - 100
+  sizeRange:
+  - {x: 0.5, y: 2}
+  - {x: 1, y: 5}
+  - {x: 2, y: 10}
+  - {x: 5, y: 15}
+  - {x: 10, y: 30}
+  refObjects:
+  - {fileID: 3391401019557177926, guid: 4d614bc456e39f74e87c9f1d76131cee, type: 3}
+  - {fileID: 356231847314167603, guid: 0cd82084e20102042937a4fb941f9805, type: 3}
+  - {fileID: 7025513191491954097, guid: f0315edeb9c74d04b85e1ac04ca16fca, type: 3}
+  - {fileID: 3391401019557177926, guid: 4d614bc456e39f74e87c9f1d76131cee, type: 3}
+  - {fileID: 356231847314167603, guid: 0cd82084e20102042937a4fb941f9805, type: 3}
+  - {fileID: 7025513191491954097, guid: f0315edeb9c74d04b85e1ac04ca16fca, type: 3}
+  - {fileID: 3391401019557177926, guid: 4d614bc456e39f74e87c9f1d76131cee, type: 3}
+  - {fileID: 356231847314167603, guid: 0cd82084e20102042937a4fb941f9805, type: 3}
+  - {fileID: 7025513191491954097, guid: f0315edeb9c74d04b85e1ac04ca16fca, type: 3}
+  - {fileID: 3391401019557177926, guid: 4d614bc456e39f74e87c9f1d76131cee, type: 3}
+  - {fileID: 356231847314167603, guid: 0cd82084e20102042937a4fb941f9805, type: 3}
+  - {fileID: 7025513191491954097, guid: f0315edeb9c74d04b85e1ac04ca16fca, type: 3}
+  - {fileID: 3391401019557177926, guid: 71c02ba256558f845ad3c6ca9a24045d, type: 3}
+  - {fileID: 356231847314167603, guid: 0311bb5b456802c45a6da6ecd84a2614, type: 3}
+  - {fileID: 7025513191491954097, guid: 5ce1b401829367a43ac76814ebcaa44a, type: 3}

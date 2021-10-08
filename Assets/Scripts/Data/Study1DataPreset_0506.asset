@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfbae7a10baf1d4baa8af16d2bd281b, type: 3}
+  m_Name: Study1DataPreset_0506
+  m_EditorClassIdentifier: 
+  showContent: 1
+  totalObject: 100
+  layerDistance:
+  - 10
+  - 25
+  - 50
+  - 75
+  - 100
+  sizeRange:
+  - {x: 0.1, y: 0.5}
+  - {x: 2, y: 4}
+  - {x: 4, y: 8}
+  - {x: 8, y: 12}
+  - {x: 12, y: 15}
+  refObjects:
+  - {fileID: 3391401019557177926, guid: fc98dfcf0fa3dd94480f512e775606a3, type: 3}
+  - {fileID: 356231847314167603, guid: c515317fa3979c240806099e0adfc642, type: 3}
+  - {fileID: 7025513191491954097, guid: fbe34020094e6674d9d8c44d6e9fc81d, type: 3}

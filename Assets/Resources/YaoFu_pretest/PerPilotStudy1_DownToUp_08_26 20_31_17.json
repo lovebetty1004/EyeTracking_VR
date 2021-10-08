@@ -1,0 +1,29 @@
+{
+    "SEEDS": [
+        586395,
+        329417,
+        567436,
+        508032,
+        373885,
+        448367,
+        572531,
+        224700
+    ],
+    "SEED_Timing": [
+        3.0038063526153566,
+        41.717769622802737,
+        78.25530242919922,
+        113.23037719726563,
+        151.6338348388672,
+        190.92710876464845,
+        226.4650115966797,
+        273.42144775390627
+    ],
+    "DiseSeeds": [],
+    "selSetID": 0,
+    "selSetName": "Study1Task2_DataPreset_0727_light_100",
+    "applyStudyName": "Study1_Task2_YN_Initial_8",
+    "animClipName": "PerPilotStudy1_DownToUp_08_26 20_31_17",
+    "remarks": [],
+    "command": ""
+}

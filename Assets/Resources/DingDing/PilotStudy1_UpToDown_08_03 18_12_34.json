@@ -1,0 +1,23 @@
+{
+    "SEEDS": [
+        38350,
+        374199,
+        197040,
+        219076,
+        635363
+    ],
+    "SEED_Timing": [
+        5.012582302093506,
+        42.32030487060547,
+        81.52664184570313,
+        118.44142150878906,
+        155.44784545898438
+    ],
+    "DiseSeeds": [],
+    "selSetID": 0,
+    "selSetName": "Study1Task2_DataPreset_0727_light",
+    "applyStudyName": "Study1_Task2_YN",
+    "animClipName": "PilotStudy1_UpToDown_08_03 18_12_34",
+    "remarks": [],
+    "command": ""
+}
